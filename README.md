@@ -6,4 +6,4 @@ Tech: React.
 
 @ledacoding
 
-pd. This project was based on Scrimba's frontend path
+Pd. This project was based on Scrimba's frontend path

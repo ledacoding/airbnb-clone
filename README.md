@@ -2,7 +2,7 @@
 
 This is a clone of the Airbnb frontpage using React. This is an opportunity to practice components while having a nice looking page.
 
-Tech: React.
+Tech: React
 
 @ledacoding
 
